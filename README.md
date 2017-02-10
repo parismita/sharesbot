@@ -1,6 +1,4 @@
 # sharesbot
-used Luis and Bot framework
-
 Data taken from Quandl NSE dataset that is updated every day.
 
     Used Linear regresion for shares prediction and connected azure database via python
